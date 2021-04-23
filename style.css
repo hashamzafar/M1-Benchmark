@@ -1,0 +1,55 @@
+
+        /* <!-- CSS EXERCISES
+
+        11) Give a maximum width to the body and center it in the page --> */
+        body{
+            width: 500px;
+            margin: auto;
+        }
+
+        /* <!-- 12) Set every h1 to be centered --> */
+        h1{
+            text-align: center;
+        }
+        /* <!-- 13) Change the color of each link in the page --> */
+            a{
+                color: chartreuse;
+            }
+        /* <!-- 14) Create a class with a border -->*/
+         /* <!-- 15) Set table to have rounded corners --> */
+        .border{
+            
+            border:solid black 5px;
+            border-radius:10px;
+            border-collapse: collapse;
+           
+        }
+    
+        /* <!-- 16) Add margin between every paragraph --> */
+        article p{
+            margin: 20px;
+        }
+        /* <!-- 17) Create a class which change font size and boldness --> */
+        .fontStyle{
+            font-size: 30px;
+            font-weight: 300;
+        }
+        /* <!-- 18) Create a class to hide a content --> */
+        .hide{
+            visibility:hidden;
+
+        }
+        /* <!-- 19) Add a green border to each td --> */
+        td{
+            border:solid 5px green;
+        }
+
+        /* <!-- 20) Add a dotted red border to each tr (note: tr does not accept a border property ;-) )  --> */
+        tr {
+            border-bottom: 1pt solid red;
+          }
+
+
+
+
+
